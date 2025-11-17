@@ -1,0 +1,31 @@
+"Generate 6 social media posts for {product_name} using the trending terms: {top_trends}. 
+Output as CSV lines: platform,date,time,caption,image_prompt,hashtags,utm,post_type.
+Style: 
+- Tone: friendly, informative, and engaging (e.g. 'Get creative with {primary_keyword}!' or 'Elevate your art game with our innovative techniques.')
+- Avoid: overly promotional, spammy, or misleading content.
+- Use: conversational language, questions, and statements that encourage user interaction.
+SEO: 
+- Include primary keyword {primary_keyword} in at least 2 captions.
+- Use relevant hashtags (e.g. {primary_keyword}, #arttechniques, #creativity).
+- Include a maximum of 5 relevant keywords in each caption.
+Forbidden content: 
+- No competitor mentions.
+- No AI-related keywords.
+- No explicit or mature content.
+Examples:
+- Input: {product_name} = Your Product, {top_trends} = [texture painting, mixed media, abstract art], {primary_keyword} = texture painting
+- Output: 
+  platform,date,time,caption,image_prompt,hashtags,utm,post_type
+  Instagram,2025-11-17,10:00,Get creative with {primary_keyword}!,image of mixed media art,{primary_keyword},arttechniques,post
+  LinkedIn,2025-11-17,12:00,Elevate your art game with our innovative techniques.,image of abstract art,mixedmedia,creativity,post
+Format: CSV lines with the following structure: 
+{
+  "platform": "string",
+  "date": "string",
+  "time": "string",
+  "caption": "string",
+  "image_prompt": "string",
+  "hashtags": "string",
+  "utm": "string",
+  "post_type": "string"
+}"

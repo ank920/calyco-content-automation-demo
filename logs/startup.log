@@ -1,0 +1,30 @@
+================================================== 
+Run started: Mon 11/17/2025 12:36:12.30 
+Project root: C:\Users\av074\Downloads\assignment\calyco-demo 
+================================================== 
+Using Streamlit port: 8501 
+venv exists. 
+Upgrading pip/setuptools/wheel... 
+Requirement already satisfied: pip in c:\users\av074\downloads\assignment\calyco-demo\venv\lib\site-packages (25.3)
+Requirement already satisfied: setuptools in c:\users\av074\downloads\assignment\calyco-demo\venv\lib\site-packages (80.9.0)
+Requirement already satisfied: wheel in c:\users\av074\downloads\assignment\calyco-demo\venv\lib\site-packages (0.45.1)
+Temporary requirements created: C:\Users\av074\AppData\Local\Temp\calyco_reqs.txt 
+Running requirements checker... 
+  File "C:\Users\av074\AppData\Local\Temp\check_reqs_calyco.py", line 6
+    print("Reading requirements from:", req_file
+         ^
+SyntaxError: '(' was never closed
+Requirements check complete. 
+Ensuring webdriver-manager and drivers... 
+Requirement already satisfied: webdriver-manager in c:\users\av074\downloads\assignment\calyco-demo\venv\lib\site-packages (4.0.2)
+Requirement already satisfied: requests in c:\users\av074\downloads\assignment\calyco-demo\venv\lib\site-packages (from webdriver-manager) (2.32.5)
+Requirement already satisfied: python-dotenv in c:\users\av074\downloads\assignment\calyco-demo\venv\lib\site-packages (from webdriver-manager) (1.2.1)
+Requirement already satisfied: packaging in c:\users\av074\downloads\assignment\calyco-demo\venv\lib\site-packages (from webdriver-manager) (25.0)
+Requirement already satisfied: charset_normalizer<4,>=2 in c:\users\av074\downloads\assignment\calyco-demo\venv\lib\site-packages (from requests->webdriver-manager) (3.4.4)
+Requirement already satisfied: idna<4,>=2.5 in c:\users\av074\downloads\assignment\calyco-demo\venv\lib\site-packages (from requests->webdriver-manager) (3.11)
+Requirement already satisfied: urllib3<3,>=1.21.1 in c:\users\av074\downloads\assignment\calyco-demo\venv\lib\site-packages (from requests->webdriver-manager) (2.5.0)
+Requirement already satisfied: certifi>=2017.4.17 in c:\users\av074\downloads\assignment\calyco-demo\venv\lib\site-packages (from requests->webdriver-manager) (2025.11.12)
+  File "C:\Users\av074\AppData\Local\Temp\install_webdrivers_calyco.py", line 5
+    print("webdriver_manager import failed:", e
+         ^
+SyntaxError: '(' was never closed

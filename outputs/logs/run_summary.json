@@ -1,0 +1,61 @@
+{
+  "start": "2025-11-17T08:12:58.469982+00:00",
+  "steps": [
+    {
+      "name": "generate_prompts_auto",
+      "ok": true,
+      "duration_s": 6.108924865722656
+    },
+    {
+      "name": "clean_outputs",
+      "ok": true
+    },
+    {
+      "name": "trends_scraper",
+      "ok": true,
+      "duration_s": 6.999770641326904
+    },
+    {
+      "name": "competitor_scraper",
+      "ok": true,
+      "duration_s": 9.381752729415894
+    },
+    {
+      "name": "dedupe_images",
+      "ok": true,
+      "duration_s": 0.09805917739868164
+    },
+    {
+      "name": "download_images",
+      "ok": true,
+      "duration_s": 48.580817222595215
+    },
+    {
+      "name": "generate_placeholders",
+      "ok": true,
+      "duration_s": 0.19336390495300293
+    },
+    {
+      "name": "social_scraper",
+      "ok": true,
+      "duration_s": 5.836595773696899
+    },
+    {
+      "name": "process_data",
+      "ok": true,
+      "duration_s": 0.08994626998901367
+    },
+    {
+      "name": "generate_content",
+      "ok": true,
+      "duration_s": 11.973578453063965
+    },
+    {
+      "name": "validate_content",
+      "ok": true,
+      "duration_s": 0.10397624969482422
+    }
+  ],
+  "end": "2025-11-17T08:14:27.933463+00:00",
+  "success": true
+}

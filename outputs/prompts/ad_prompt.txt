@@ -1,0 +1,60 @@
+```markdown
+Generate 6 short ad snippets for Google, Facebook, and WhatsApp, targeting texture painting enthusiasts, with a focus on Calyco's {product_name}.
+
+Input:
+- {product_name} (required): The name of the product.
+- {primary_keyword} (required): The primary keyword for the ad campaign (e.g. texture painting).
+- {top_trends} (optional): Relevant top trends for the ad campaign (e.g. 2025 art trends).
+- {competitor_summary} (optional): A summary of the competitor's offerings.
+- {generated_at} (optional): The timestamp when the ad was generated.
+
+Output:
+{
+  "channel": ["Google", "Facebook", "WhatsApp", "Google", "Facebook", "WhatsApp"],
+  "headline": [
+    "Unlock {primary_keyword} Mastery with {product_name}",
+    "Discover {product_name} and Elevate Your {primary_keyword} Skills",
+    "{primary_keyword} Made Easy with {product_name} and Expert Tips",
+    "Unleash Your Artistic Side with {product_name} and {top_trends}",
+    "{primary_keyword} Techniques with {product_name} and Unlock Your Potential",
+    "{primary_keyword} with Passion and {product_name}, the Ultimate {top_trends} Art Trend"
+  ],
+  "description": [
+    "Elevate your art with Calyco's {product_name} and Master {primary_keyword}",
+    "Experience the power of {primary_keyword} with {product_name} and Unlock Your Creativity",
+    "Join the {primary_keyword} revolution with {product_name} and Stay Ahead of the Curve",
+    "Transform your art with Calyco's expertise and {product_name}, the Perfect {top_trends} Companion",
+    "Unleash your creativity with {product_name} and Discover the Art of {primary_keyword}",
+    "Where art meets {primary_keyword} with {product_name} and Get Ready to Paint"
+  ],
+  "cta": ["Learn More", "Get Started", "Shop Now", "Discover More", "Sign Up", "Explore"]
+}
+
+Style & Tone:
+- Punchy and performance-focused
+- Examples: 
+  - "Unlock your creative potential"
+  - "Elevate your art game"
+
+SEO Recommendations:
+- Include primary keyword in headline and description
+- Use relevant long-tail keywords (e.g. 'texture painting techniques')
+- Use meta description with primary keyword (e.g. "Unlock your texture painting potential with Calyco's expert tools")
+
+Forbidden Content:
+- No explicit content
+- No competitor bashing
+
+Examples:
+Input: {product_name: 'Your Product', primary_keyword: 'texture painting'}
+Output:
+- Google: "Unlock Texture Painting Mastery with Your Product"
+- Facebook: "Discover Your Product and Elevate Your Art"
+- WhatsApp: "Get Creative with Texture Painting and Your Product"
+
+Input: {product_name: 'Your Product', primary_keyword: 'texture painting', top_trends: '2025 art trends'}
+Output:
+- Google: "Unleash Your Artistic Side with Your Product and 2025 Art Trends"
+- Facebook: "Texture Painting Made Easy with Your Product and Expert Tips"
+- WhatsApp: "Paint with Passion and Your Product, the Ultimate 2025 Art Trend"
+```

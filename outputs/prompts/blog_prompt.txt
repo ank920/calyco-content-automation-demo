@@ -1,0 +1,115 @@
+```markdown
+Write a 1200-1600 word SEO blog post for {product_name} (online-first paint brand).
+
+Context (top trends and competitor inspiration):
+Top trends: {top_trends}
+Competitor inspiration: {competitor_summary}
+
+Requirements:
+
+- Title: {product_name} - The Ultimate Guide to {primary_keyword}
+- meta_title: {product_name} - {primary_keyword} Made Easy
+- meta_description: Discover the art of {primary_keyword} with {product_name}, {product_features}.
+
+- 4+ subheads, bullets, FAQs (3)
+- 3 image prompts:
+  1. A high-quality image of a {primary_keyword} using {product_name}
+  2. A before-and-after comparison of a {primary_keyword} with {product_name}
+  3. A close-up of a {primary_keyword} showcasing the unique finish of {product_name}
+
+- Tone: helpful, modern, performance-first (mention {product_features})
+- Style: conversational, informative, and engaging
+- Forbidden content: AI, competitor brand names, and generic paint descriptions
+
+SEO recommendations:
+- Use primary keyword in title, meta title, and meta description
+- Include secondary keywords from top trends in subheads and bullets
+- Optimize image alt tags and descriptions with primary and secondary keywords
+
+Expected output format:
+{
+  "title": "",
+  "meta_title": "",
+  "meta_description": "",
+  "subheads": [],
+  "bullets": [],
+  "faqs": [],
+  "image_prompts": [
+    {
+      "prompt": "",
+      "description": ""
+    },
+    {
+      "prompt": "",
+      "description": ""
+    },
+    {
+      "prompt": "",
+      "description": ""
+    }
+  ]
+}
+
+Style & tone rules:
+- Use a conversational tone
+- Use a modern and performance-first approach
+- Mention {product_features} in the content
+
+Forbidden content rules:
+- Do not mention AI
+- Do not mention competitor brand names
+- Do not use generic paint descriptions
+
+Examples:
+- Input: {product_name} = "Calyco", {primary_keyword} = "texture painting", {top_trends} = "sustainable living, home decor"
+- Expected output:
+  {
+    "title": "{product_name} - The Ultimate Guide to {primary_keyword}",
+    "meta_title": "{product_name} - {primary_keyword} Made Easy",
+    "meta_description": "Discover the art of {primary_keyword} with {product_name}, low-VOC, washable, and fast recoat paint.",
+    "subheads": ["Introduction to {primary_keyword}", "Benefits of {primary_keyword}", "Tips for Achieving {primary_keyword}"],
+    "bullets": ["Use {product_name}'s low-VOC paint for a healthier home", "Achieve a unique finish with {product_name}'s fast recoat paint"],
+    "faqs": [
+      {"question": "What is {primary_keyword}?", "answer": "{primary_keyword} is a technique that adds texture to a painting"},
+      {"question": "How do I achieve {primary_keyword}?", "answer": "Use a textured brush or add texture with a palette knife"}
+    ],
+    "image_prompts": [
+      {
+        "prompt": "A high-quality image of a {primary_keyword} using {product_name}",
+        "description": "Image of a {primary_keyword} with {product_name}'s unique finish"
+      },
+      {
+        "prompt": "A before-and-after comparison of a {primary_keyword} with {product_name}",
+        "description": "Image of a before-and-after comparison of a {primary_keyword} with {product_name}"
+      },
+      {
+        "prompt": "A close-up of a {primary_keyword} showcasing the unique finish of {product_name}",
+        "description": "Image of a close-up of a {primary_keyword} with {product_name}'s unique finish"
+      }
+    ]
+  }
+
+- Input: {product_name} = "Pintura", {primary_keyword} = "acrylic painting", {top_trends} = "art, creativity"
+- Expected output:
+  {
+    "title": "{product_name} - The Ultimate Guide to {primary_keyword}",
+    "meta_title": "{product_name} - {primary_keyword} Made Easy",
+    "meta_description": "Discover the art of {primary_keyword} with {product_name}, fast-drying, and versatile paint.",
+    "subheads": ["Introduction to {primary_keyword}", "Benefits of {primary_keyword}", "Tips for Achieving {primary_keyword}"],
+    "bullets": ["Use {product_name}'s fast-drying paint for a quick finish", "Achieve a unique finish with {product_name}'s versatile paint"],
+    "faqs": [
+      {"question": "What is {primary_keyword}?", "answer": "{primary_keyword} is a technique that uses fast-drying paint"},
+      {"question": "How do I achieve {primary_keyword}?", "answer": "Use a fast-drying paint like {product_name}"}
+    ],
+    "image_prompts": [
+      {
+        "prompt": "A high-quality image of a {primary_keyword} using {product_name}",
+        "description": "Image of a {primary_keyword} with {product_name}'s unique finish"
+      },
+      {
+        "prompt": "A before-and-after comparison of a {primary_keyword} with {product_name}",
+        "description": "Image of a before-and-after comparison of a {primary_keyword} with {product_name}"
+      },
+      {
+        "prompt": "A close-up of a {primary_keyword} showcasing the unique finish of {product_name}",
+        "description": "Image of a close-up of a {primary_keyword} with {product_name}'

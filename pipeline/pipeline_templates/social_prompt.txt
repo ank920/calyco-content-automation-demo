@@ -1,0 +1,4 @@
+Generate 3 Instagram and 3 LinkedIn posts based on top color trends.
+
+CSV format:
+platform,date,time,caption,image_prompt,hashtags,utm

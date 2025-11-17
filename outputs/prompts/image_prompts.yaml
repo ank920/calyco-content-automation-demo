@@ -1,0 +1,5 @@
+hero: "Hero image for an article titled '{TITLE}'. Show a modern Indian apartment living room bathed in natural light, featuring CALYCO paint in the '{COLOR_FAMILY}' family. Include plants and warm wood tones. Photorealistic, high color accuracy, no logos or text. Output size: {SIZE}."
+product: "Close-up of a wall painted with a durable finish showing subtle texture and even light reflection. Include a small palette swatch with the color name. Photorealistic, studio lighting. Output size: {SIZE}."
+social: "Social post visual: cozy interior corner using pastel tones inspired by '{TREND_KEYWORDS}'. Airy mood, indoor plants, modern decor, space for text overlay. Photorealistic. Output size: {SIZE}."
+ad: "Mobile ad thumbnail: bold, minimal composition showing freshly painted surface with water beading. Room for small logo. Output size: {SIZE}."
+faq_illustration: "Isometric diagram with three panels showing finish types (matte, eggshell, satin). Clean vector style. Output size: {SIZE}."

@@ -1,0 +1,51 @@
+Given the absence of trending keywords, I'll provide a general response with some popular keywords in the home and cleaning space. Please note that these keywords may change over time.
+
+Popular keywords: eco-friendly, sustainable, cleaning tips, home organization, low-VOC, washable, cleaning products, home decor.
+
+Here are three Instagram consumer posts and three LinkedIn contractor posts:
+
+**Instagram Consumer Posts**
+
+1. "Cleaning just got a whole lot greener! Discover our range of eco-friendly cleaning products that are gentle on surfaces and the planet. #ecofriendly #sustainableliving #cleaningtips #lowvoc #washable"
+- Date: 2024-02-20
+- Time: 14:00
+- Image Prompt: A person holding a bottle of eco-friendly cleaning product with a green background.
+- UTM: /ecofriendly-products
+- Post Type: Sponsored
+
+2. "Get ready to declutter and organize your home with our top cleaning tips! From dusting to vacuuming, we've got you covered. #homedecor #cleaningtips #organization #lowvoc #washable"
+- Date: 2024-02-22
+- Time: 10:00
+- Image Prompt: A before-and-after photo of a cluttered room transformed into a tidy space.
+- UTM: /cleaning-tips
+- Post Type: Organic
+
+3. "Make the switch to sustainable cleaning products that are gentle on your skin and the environment. Explore our range today! #sustainableliving #ecofriendly #cleaningproducts #lowvoc #washable"
+- Date: 2024-02-24
+- Time: 16:00
+- Image Prompt: A person washing their hands with a sustainable soap, with a green background.
+- UTM: /sustainable-products
+- Post Type: Sponsored
+
+**LinkedIn Contractor Posts**
+
+1. "As a contractor, you know the importance of using eco-friendly cleaning products that are gentle on surfaces and the environment. Discover our range of low-VOC cleaning products that meet your high standards. #ecofriendly #sustainableliving #cleaningproducts #lowvoc #contractor"
+- Date: 2024-02-20
+- Time: 10:00
+- Image Prompt: A photo of a contractor using eco-friendly cleaning products on a job site.
+- UTM: /contractor-products
+- Post Type: Sponsored
+
+2. "Stay ahead of the game with our top cleaning tips and tricks for contractors! From dusting to vacuuming, we've got you covered. #cleaningtips #organization #lowvoc #washable #contractor"
+- Date: 2024-02-22
+- Time: 14:00
+- Image Prompt: A before-and-after photo of a job site transformed into a clean and organized space.
+- UTM: /cleaning-tips-contractor
+- Post Type: Organic
+
+3. "As a contractor, you understand the importance of using sustainable cleaning products that are gentle on surfaces and the environment. Explore our range of eco-friendly cleaning products today! #sustainableliving #ecofriendly #cleaningproducts #lowvoc #contractor"
+- Date: 2024-02-24
+- Time: 16:00
+- Image Prompt: A photo of a contractor holding a bottle of eco-friendly cleaning product, with a green background.
+- UTM: /sustainable-products-contractor
+- Post Type: Sponsored
