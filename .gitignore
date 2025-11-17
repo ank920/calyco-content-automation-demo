@@ -1,0 +1,4 @@
+# ignore generated images and metadata
+/images/*
+outputs/images/*
+.env

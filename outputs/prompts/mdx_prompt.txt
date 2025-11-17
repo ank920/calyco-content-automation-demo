@@ -1,0 +1,47 @@
+```mdx_prompt
+Create an MDX product page for '{product_title}' with the primary keyword '{primary_keyword}' and top trends '{top_trends}'. Include YAML frontmatter with title, slug, meta.title, meta.description, a short description (max 150 chars), 3 feature bullets (mentioning {feature1}, {feature2}, {feature3}), technical specs and a CTA. Output MDX only.
+
+Expected output format:
+```yml
+---
+title: '{product_title}'
+slug: '{product_title}-slug'
+meta:
+  title: '{product_title} - {primary_keyword}'
+  description: '{product_title} is a {primary_keyword} product with {feature1}, {feature2}, and {feature3}. {top_trends} trends make it a great choice.'
+---
+# {product_title}
+{short_description}
+
+## Features
+* {feature1}
+* {feature2}
+* {feature3}
+
+## Technical Specs
+{technical_specs}
+
+## Call to Action
+Learn more about {product_title} and discover the benefits of {primary_keyword} technology.
+
+Style & tone:
+- Friendly and approachable
+- Use examples of tone: 'Discover the art of {primary_keyword} with {product_title} - {primary_keyword}', 'Elevate your {primary_keyword} design with our low-VOC, washable, and fast recoat {product_title}.'
+
+SEO recommendations:
+- Use primary keyword in meta.title and meta.description
+- Include top trends in meta.description
+- Use header tags (H1, H2, H3) for structure and readability
+
+Forbidden content rules:
+- No competitor comparisons
+- No negative language
+
+Examples:
+- Input: product_title='Calyco Super Emulsion - Interior', primary_keyword='texture painting', top_trends='sustainable, eco-friendly, interior design'
+  Expected output: 'Discover the art of texture painting with Calyco Super Emulsion - Interior, a sustainable and eco-friendly product with low-VOC, washable, and fast recoat emulsion.'
+- Input: product_title='Calyco Super Emulsion - Exterior', primary_keyword='exterior painting', top_trends='weather-resistant, durable, exterior design'
+  Expected output: 'Elevate your exterior design with Calyco Super Emulsion - Exterior, a weather-resistant and durable product with low-VOC, washable, and fast recoat emulsion.'
+
+Generated at: '{generated_at}'
+```

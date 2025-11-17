@@ -1,0 +1,31 @@
+```yml
+---
+title: Calyco Super Emulsion - Interior
+slug: calyco-super-emulsion-interior
+meta:
+  title: Calyco Super Emulsion - Interior
+  description: A high-quality interior emulsion paint with low VOC, washable, and fast recoat properties.
+---
+
+# Calyco Super Emulsion - Interior
+
+Transform your interior spaces with Calyco Super Emulsion, a premium paint that combines exceptional durability with a gentle touch on the environment. Our Super Emulsion is designed to provide a smooth, even finish while minimizing its impact on the air you breathe.
+
+### Key Features
+
+* **Low VOC**: Our Super Emulsion paint emits minimal volatile organic compounds, ensuring a healthier indoor environment.
+* **Washable**: Easily wipe away scuff marks and stains with a damp cloth, making maintenance a breeze.
+* **Fast Recoat**: Get back to work quickly with our fast-drying formula, allowing for recoat in as little as 1 hour.
+
+### Technical Specifications
+
+| Property | Value |
+| --- | --- |
+| Coverage per Litre | 13m² |
+| Drying Time | 30 minutes (touch dry), 1 hour (recoat) |
+| Recommended Coats | 2 coats for optimal results |
+
+### Get Started Today!
+
+Order Calyco Super Emulsion - Interior now and experience the difference for yourself.
+```

@@ -1,0 +1,9 @@
+Write a 1500-word SEO blog for Calyco Paints using this context:
+
+{{CONTEXT}}
+
+Rules:
+- NEVER mention AI.
+- Tone: modern, performance-focused.
+- Mention low-VOC, washable, fast recoat naturally.
+Return: meta_title, meta_description, article_html, faqs[], image_prompts[].

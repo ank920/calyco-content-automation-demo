@@ -1,0 +1,48 @@
+[
+  {
+    "url": "https://www.instagram.com/indigopaints/",
+    "status": 200,
+    "meta": {
+      "bingbot": "noarchive",
+      "robots": "noarchive, noimageindex",
+      "apple-mobile-web-app-status-bar-style": "default",
+      "mobile-web-app-capable": "yes",
+      "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=2, viewport-fit=cover",
+      "theme-color": "#000000",
+      "description": "Welcome back to Instagram. Sign in to check out what your friends, family & interests have been capturing & sharing around the world.",
+      "application-title": "Instagram",
+      "color-scheme": "light"
+    },
+    "fetched_at": "2025-11-17 13:44:11"
+  },
+  {
+    "url": "https://www.linkedin.com/company/asian-paints/",
+    "status": 200,
+    "meta": {
+      "pageKey": "d_org_guest_company_overview",
+      "robots": "max-image-preview:large, noarchive",
+      "bingbot": "max-image-preview:large, archive",
+      "linkedin:pageTag": "noncanonical_subdomain=enabled",
+      "locale": "en_US",
+      "al:android:url": "https://in.linkedin.com/company/asian-paints",
+      "al:android:package": "com.linkedin.android",
+      "al:android:app_name": "LinkedIn",
+      "al:ios:url": "https://in.linkedin.com/company/asian-paints",
+      "al:ios:app_store_id": "288429040",
+      "al:ios:app_name": "LinkedIn",
+      "description": "Asian Paints | 669,863 followers on LinkedIn. They say home is where the heart is. Which is why, since 1942, we’ve been helping customers transform empty properties to homes by dressing them up in warm hues, pastel shades and cool colours, to create spaces that truly represent you.\nAsian Paints has a lot of identities.",
+      "og:title": "Asian Paints | LinkedIn",
+      "og:description": "Asian Paints | 669,863 followers on LinkedIn. They say home is where the heart is. Which is why, since 1942, we’ve been helping customers transform empty properties to homes by dressing them up in warm hues, pastel shades and cool colours, to create spaces that truly represent you.\nAsian Paints has a lot of identities.",
+      "og:image": "https://media.licdn.com/dms/image/v2/C4D0BAQGkOokHs5IEvA/company-logo_200_200/company-logo_200_200/0/1631315509959?e=2147483647&v=beta&t=BiDpf-2drQqb0Fdv7sgxRkevVR3Gqhdew-pcsAOQHPk",
+      "og:type": "article",
+      "og:url": "https://in.linkedin.com/company/asian-paints",
+      "twitter:card": "summary",
+      "twitter:site": "@linkedin",
+      "twitter:title": "Asian Paints | LinkedIn",
+      "twitter:description": "Asian Paints | 669,863 followers on LinkedIn. They say home is where the heart is. Which is why, since 1942, we’ve been helping customers transform empty properties to homes by dressing them up in warm hues, pastel shades and cool colours, to create spaces that truly represent you.\nAsian Paints has a lot of identities.",
+      "twitter:image": "https://media.licdn.com/dms/image/v2/C4D0BAQGkOokHs5IEvA/company-logo_200_200/company-logo_200_200/0/1631315509959?e=2147483647&v=beta&t=BiDpf-2drQqb0Fdv7sgxRkevVR3Gqhdew-pcsAOQHPk",
+      "clientSideIngraphs": "1"
+    },
+    "fetched_at": "2025-11-17 13:44:14"
+  }
+]

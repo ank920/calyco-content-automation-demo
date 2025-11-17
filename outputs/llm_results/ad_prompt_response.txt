@@ -1,0 +1,9 @@
+Here are six short ad snippets for Calyco:
+
+"Channel,Headline,Description,CTA
+Google Ads,Boost Your Savings,Get exclusive deals on home improvement projects with Calyco. Start saving today!,Learn More
+Facebook Ad,Home Makeover on a Budget,Transform your space without breaking the bank. Explore Calyco's affordable options!,Shop Now
+WhatsApp Ad,Get 10% Off,Use code CALYCO10 at checkout to receive 10% off your next home improvement project. Limited time only!,Redeem Now
+Google Ads,Expert Advice at Your Fingertips,Get personalized guidance on your home renovation project with Calyco's expert advice. Book now!,Consult an Expert
+Facebook Ad,Unlock Your Dream Home,Make your home renovation dreams a reality with Calyco's wide range of products and services. Start now!,Get Started
+WhatsApp Ad,Free Consultation,Book a free consultation with Calyco's experts to discuss your home improvement project. Limited spots available!,Book Now"

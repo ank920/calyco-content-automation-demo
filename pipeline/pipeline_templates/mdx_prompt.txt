@@ -1,0 +1,10 @@
+Generate MDX product description for Calyco Super Emulsion - Interior.
+
+Include:
+- Frontmatter (title, slug, meta)
+- 3 features
+- Technical specs
+- CTA
+
+Rules:
+- NEVER mention AI.

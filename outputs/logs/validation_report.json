@@ -1,0 +1,54 @@
+{
+  "run_id": "2025-11-17T08:14:27.923078Z",
+  "timestamp": "2025-11-17T08:14:27.923152Z",
+  "checks": [
+    {
+      "id": "blog_wordcount::blog_1763367267.json",
+      "status": "pass",
+      "message": "830 words",
+      "file": "blog_1763367267.json"
+    },
+    {
+      "id": "seo_jsonld::blog_1763367267.jsonld",
+      "status": "pass",
+      "message": "has basic fields"
+    },
+    {
+      "id": "social_columns",
+      "status": "warn",
+      "message": "Missing columns: ['platform', 'date', 'time(IST)', 'caption', 'image_prompt', 'hashtags', 'utm', 'post_type']",
+      "file": "social_posts.csv"
+    },
+    {
+      "id": "mdx_frontmatter::product_super_emulsion_1763367267.mdx",
+      "status": "warn",
+      "message": "No YAML frontmatter detected"
+    },
+    {
+      "id": "llm_results_count",
+      "status": "pass",
+      "message": "4 files"
+    },
+    {
+      "id": "competitor_images::Benjamin_Moore_Paints_and_Exterior_Stains_Benjamin_Moore",
+      "status": "pass",
+      "message": "10 images"
+    },
+    {
+      "id": "competitor_images::Exterior_Paint_Interior_Paint_Wood_Stains_Behr",
+      "status": "pass",
+      "message": "10 images"
+    },
+    {
+      "id": "competitor_images::Trusted_Wall_Painting,_Home_Painting_and_Waterproofing_in_India_-_Asian_Paints",
+      "status": "pass",
+      "message": "7 images"
+    }
+  ],
+  "summary": {
+    "total": 8,
+    "passed": 6,
+    "warn": 2,
+    "failed": 0
+  }
+}
